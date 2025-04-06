@@ -6,9 +6,10 @@ An AI-powered recommendation system that helps hiring managers quickly discover 
 
 ## 🚀 Live Demo & API
 
-- 🔗 **Live Demo**: [Hosted Streamlit App](#)
-- 🔗 **API Endpoint**: [API URL](#)
+- 🔗 **Live Demo**: [Hosted Streamlit App](https://nipunkhattri-shl-assessment-recommendor-streamlit-bfh1ad.streamlit.app/)
+- 🔗 **API Endpoint**: [API URL](https://shl-assessment-recommendor-wmhq.onrender.com)
 - 🔗 **GitHub Repo**: [GitHub](https://github.com/Nipunkhattri/SHL_Assessment_Recommendor)
+
 
 ---
 
