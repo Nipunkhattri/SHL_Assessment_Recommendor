@@ -1,0 +1,1346 @@
+[
+  {
+    "name": "Account Manager Solution",
+    "duration": "49",
+    "description": "The Account Manager solution is an assessment used for job candidates applying to mid-level leadership positions that tend to manage the day-to-day operations and activities of client accounts. Sample tasks for these jobs include, but are not limited to: communicating with clients about project status, developing and maintaining project plans, coordinating internally with appropriate project personnel, and ensuring client expectations are being met. Potential job titles that use this solution are: Account Executive, Account Manager, and Senior Account Manager. There are multiple configurations of this solution available.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/account-manager-solution/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "TestTypes": [
+      "C",
+      "P",
+      "A",
+      "B"
+    ]
+  },
+  {
+    "name": "Administrative Professional - Short Form",
+    "duration": "36",
+    "description": "The Administrative Professional solution is for entry to mid-level positions that involve routine clerical and administrative functions in addition to office management functions and customer service. Sample tasks for this job include, but are not limited to: arranging conference calls; drafting correspondence; scheduling meetings; greeting visitors; coordinating office activities. Potential job titles that use this solution are: Administrative Assistant, Secretary, Office Manager, Administrative Aide, and Administrative Associate.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/administrative-professional-short-form/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "TestTypes": [
+      "A",
+      "K",
+      "P"
+    ]
+  },
+  {
+    "name": "Agency Manager Solution",
+    "duration": "51",
+    "description": "The Agency Manager solution is for mid-level sales management positions that include front line management and sales responsibilities. Sample tasks for this job include, but are not limited to: directing and coordinating financial activities of workers in a branch, office, or department of an establishment, such as branch bank, brokerage firm, risk and insurance department, or credit department.  Potential job titles that use this solution are: Agency Manager, Brokerage Manager. Multiple configurations of this solution are available.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agency-manager-solution/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "TestTypes": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "name": "Apprentice + 8.0 Job Focused Assessment",
+    "duration": "30",
+    "description": "The Apprentice + 8.0 Job-Focused Assessment is a short, targeted, globally applicable assessment which includes a short cognitive ability measure. This assessment is designed for entry-level positions appropriate for countries and industries that use an apprenticeship model. It is intended to be used multi-nationally for organisations whose business spans across regions.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apprentice-8-0-job-focused-assessment-4261/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "B",
+      "P"
+    ]
+  },
+  {
+    "name": "Apprentice 8.0 Job Focused Assessment",
+    "duration": "20",
+    "description": "The Apprentice 8.0 Job-Focused Assessment is a short, targeted, globally applicable assessment. This assessment is designed for entry-level positions appropriate for countries and industries that use an apprenticeship model. It is intended to be used multi-nationally for organizations whose business spans across regions.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apprentice-8-0-job-focused-assessment/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "B",
+      "P"
+    ]
+  },
+  {
+    "name": "Bank Administrative Assistant - Short Form",
+    "duration": "35",
+    "description": "The Administrative Assistant solution is for entry-level clerical positions that interact with external or internal customers. Sample tasks for these jobs include, but are not limited to: answering telephones, managing files and records, sorting mail, greeting customers, and collaborating with co-workers on projects. Potential job titles that use this solution are: Receptionist and Administrative Assistant. There are multiple configurations of this solution available.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/bank-administrative-assistant-short-form/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "A",
+      "B",
+      "K",
+      "P"
+    ]
+  },
+  {
+    "name": "Bank Collections Agent - Short Form",
+    "duration": "45",
+    "description": "This solution is for entry-level collections positions in an inbound or outbound call center environment in a financial setting. Candidates answer multiple choice questions to measure achievement orientation, dependability, collector numerical skills, revenue recovery, customer focus, and persistence and planfulness. There are multiple configurations and versions of this solution available.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/bank-collections-agent-short-form/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "name": "Bank Operations Supervisor - Short Form",
+    "duration": "45",
+    "description": "The Bank Operations Supervisor solution is for job candidates applying to entry-level leadership positions who tend to supervise hourly employees. Sample tasks for these jobs include, but are not limited to:  planning and preparing work schedules, assigning employees to specific duties; coaching  employees on attendance, conduct, schedule adherence, and work tasks, developing employees' skills ; training subordinates; prioritizing multiple tasks  and priorities; and making  day-to-day decisions with minimal guidance from others. Potential job titles that use this solution are: Team Leader, First Line Supervisor, Processing Supervisor, Call Center Supervisor, and Customer Service Supervisor. There are multiple configurations and versions of this solution available.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/bank-operations-supervisor-short-form/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "TestTypes": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "name": "Bilingual Spanish Reservation Agent Solution",
+    "duration": "43",
+    "description": "The Bilingual Reservation Agent solution is designed for customer centered entry-level positions within the hospitality industry. Sample tasks may include making, updating, or canceling hotel reservations made in English or Spanish; listening to customers speak Spanish and entering information into a computer in English; providing information on the hotel and the services offered. Potential job titles that use this solution are: Bilingual Reservation Agent, Customer Service Representative and Reservationist. Multiple configurations of this solution are available.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/bilingual-spanish-reservation-agent-solution/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "TestTypes": [
+      "B",
+      "P",
+      "S",
+      "A"
+    ]
+  },
+  {
+    "name": "Bookkeeping, Accounting, Auditing Clerk Short Form",
+    "duration": "49",
+    "description": "The Bookkeeping, Accounting, and Auditing Clerk solution is for entry-level positions that involve entering numerical data into computer systems and maintaining financial records. Sample tasks for this job include, but are not limited to: entering financial data into computers; checking financial records for accuracy; perform routine computations on financial data. Potential job titles that use this solution are: Accounting Clerk, Bookkeeper, Accounting Associate, Auditing Clerk and Accounts Receivable Clerk.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/bookkeeping-accounting-auditing-clerk-short-form/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "TestTypes": [
+      "P",
+      "S",
+      "K",
+      "B",
+      "A"
+    ]
+  },
+  {
+    "name": "Branch Manager - Short Form",
+    "duration": "50",
+    "description": "This solution is for mid to upper-level financial institution managerial positions. Candidates answer a series of multiple choice questions to measure management potential, management judgment, leadership potential, team management, branch manager problem solving, business leadership, leadership motivation, interpersonal leadership, self leadership, and branch manager judgment. There are multiple configurations and versions of this solution available.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/branch-manager-short-form/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "name": "Cashier Solution",
+    "duration": "28",
+    "description": "The Cashier solution is for entry-level retail positions in which employees receive payment in the form of cash, check, or credit cards for goods purchased. Sample tasks for these jobs include, but are not limited to: handling payments, offering customer service, and issuing receipts and refunds. Potential job titles that use this solution are: Cashier, Sales Associate, and Clerk. There are multiple configurations and versions of this solution available.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cashier-solution/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "TestTypes": [
+      "B",
+      "A",
+      "P"
+    ]
+  },
+  {
+    "name": "Global Skills Development Report",
+    "duration": "Not specified",
+    "description": "This report is designed to be given to individuals who have completed the Global Skills Assessment (GSA). With coverage across the Great 8 Domains, this measure of self-reported behaviors offers a complete overview of their current skills. Participants receive actionable tips on leveraging their top skill strengths and how they might develop their growth skills.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "A",
+      "E",
+      "B",
+      "C",
+      "D",
+      "P"
+    ]
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "duration": "30",
+    "description": "The.NET Framework 4.5 test measures knowledge of .NET environment. Designed for experienced users, this test covers the following topics: Application Development, Application Foundation, Data Modeling, Deployment, Diagnostics, Performance, Portability, and Security.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": ".NET MVC (New)",
+    "duration": "17",
+    "description": "Multi-choice test that measures the knowledge of Model-View-Controller (MVC) architecture, validation, security, routing, and areas.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "duration": "5",
+    "description": "Multi-choice test that measures the knowledge of MVVM pattern, scenarios, data validation, ViewModel communication and Quick-start.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": ".NET WCF (New)",
+    "duration": "11",
+    "description": "Multi-choice test that measures the knowledge of .NET fundamentals, WCF architecture, programming model, SOA, managing and programming WCF.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": ".NET WPF (New)",
+    "duration": "9",
+    "description": "Multi-choice test that measures the knowledge of .NET basics, WPF, XAML controls, events, layouts, working with WPF windows/menus and deploying WPF applications.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": ".NET XAML (New)",
+    "duration": "5",
+    "description": "Multi-choice test that measures the knowledge of XAML triggers, data binding, custom controls and layouts.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "duration": "9",
+    "description": "Multiple-choice test that measures the knowledge of processing payables and vendor invoices, and the posting of journal entries.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "duration": "8",
+    "description": "Simulated data entry test that measures the ability to process payables and vendor invoices.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "S"
+    ]
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "duration": "13",
+    "description": "Multiple-choice test that measures the knowledge of processing receivables and invoices.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "duration": "8",
+    "description": "Simulated data entry test that measures the ability to process receivables and invoices.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "S"
+    ]
+  },
+  {
+    "name": "ADO.NET (New)",
+    "duration": "10",
+    "description": "Multi-choice test that measures the knowledge on the concepts of ADO.NET architecture, components and data provider objects.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Written English v1",
+    "duration": "30",
+    "description": "The Written English test measures knowledge of US English grammar and English reading comprehension. It is designed for those with English as a second language and covers the following topics: Articles, Comparisons, Conjunctions, General Questions, Misused Words, Nouns, Parallel Structure, Prepositions, Pronouns, Specific Questions, and Verbs.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/written-english-v1/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Written Spanish",
+    "duration": "22",
+    "description": "This test measures knowledge of Spanish grammar and Spanish reading comprehension skills. Designed primarily for individuals where Spanish is their second language, this test covers the following topics: Adjectives, Adverbs, Conjunctions, Nouns, Prepositions, Pronouns, Verbs, and Reading Comprehension.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/written-spanish/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Zabbix (New)",
+    "duration": "9",
+    "description": "Multi-choice test that measures the knowledge of Zabbix architecture, data handling, monitoring and administration.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/zabbix-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "360 Digital Report",
+    "duration": "Not specified",
+    "description": "Introducing the new 360 Digital Report from SHL! Our latest offering revolutionizes the reporting experience for our 360 products, catering to the modern user's needs for enhanced usability and actionable insights. With a sleek, interactive interface, this report provides a exploration of feedback data, focusing on user development and comprehensive evaluation. Users can now enjoy a visually engaging experience, with the capability to download the report in PDF format for offline access. Upgrade your reporting experience today with SHL's innovative 360 Digital Report!",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/360-digital-report/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "D"
+    ]
+  },
+  {
+    "name": "360° Multi-Rater Feedback System (MFS)",
+    "duration": "Untimed",
+    "description": "SHL 360, or the Multi-Rater Feedback System (‘MFS’), provides a holistic 360-degree view of an employee by gathering feedback from the employee’s manager, peers, direct reports, and/or other raters.  By offering a wide range of perspectives, 360 feedback gives employees a more thorough understanding of not only their strengths, weaknesses, and development opportunities, but also their impact on others.  360-degree multi-rater assessments are based on SHL’s Universal Competency Framework (“UCF”), using our proven library of research-driven competencies to provide opportunities for managers, peers, and direct reports to supply useful developmental feedback that they may not otherwise share.  SHL can also offer support and training throughout the entire process, from defining objectives through interpreting and delivering the feedback.  360 feedback serves all levels and industries and is a positive and powerful addition to your performance management system.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/360-multi-rater-feedback-system-mfs/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "D",
+      "P"
+    ]
+  },
+  {
+    "name": "District/Regional Manager Solution",
+    "duration": "65",
+    "description": "The District/Regional Manager solution is for mid- to senior-level managerial positions that oversee multiple stores within a defined area.  Sample tasks for these jobs include, but are not limited to: directing a group of supervisors or managers, having profit and loss responsibility for a district or region, and aligning work with overall company goals.  Potential job titles that use this solution are: Regional Director, District Manager, General Manager, Regional Manager, Store Manager, and Area Manager. There are multiple configurations and versions of this solution available.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/districtregional-manager-solution/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "TestTypes": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "name": "Entry Level Cashier 7.1 (Americas)",
+    "duration": "18",
+    "description": "The Entry level Cashier 7.1 solution is for entry-level retail positions in which employees receive payment in the form of cash, check, or credit cards for goods purchased. Sample tasks for these jobs include, but are not limited to: handling payments, offering customer service, and issuing receipts and refunds. Potential job titles that use this solution are: Cashier, Sales Associate, and Clerk.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-cashier-7-1-%28americas%29/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "B",
+      "P",
+      "A"
+    ]
+  },
+  {
+    "name": "Entry Level Cashier 7.1 (International)",
+    "duration": "18",
+    "description": "The Entry level Cashier 7.1 solution is for entry-level retail positions in which employees receive payment in the form of cash, check, or credit cards for goods purchased. Sample tasks for these jobs include, but are not limited to: handling payments, offering customer service, and issuing receipts and refunds. Potential job titles that use this solution are: Cashier, Sales Associate, and Clerk.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-cashier-7-1-%28international%29/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "name": "Entry Level Customer Service 7.1 (Americas)",
+    "duration": "19",
+    "description": "The Entry Level Customer Service Solution (Retail and Contact Center) 7.1 is for entry-level positions in which employees interact with customers by providing information or carrying out customer requests related to an organizations products or services. Sample tasks for these jobs include, but are not limited to: interacting with customers on the phone or in person; taking orders; solving product or service issues; and responding positively to difficult or irate customers.“IMPORTANT! Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is International, South Africa and Americas\".",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-7-1-%28americas%29/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "C",
+      "P"
+    ]
+  },
+  {
+    "name": "Entry Level Customer Service 7.1 (International)",
+    "duration": "19",
+    "description": "The Entry Level Customer Service Solution (Retail and Contact Center) 7.1 is for entry-level positions in which employees interact with customers by providing information or carrying out customer requests related to an organizations products or services. Sample tasks for these jobs include, but are not limited to: interacting with customers on the phone or in person; taking orders; solving product or service issues; and responding positively to difficult or irate customers.“IMPORTANT! Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is International, South Africa and Americas\".",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-%28retail-and-cc%29-7-1/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "C",
+      "P"
+    ]
+  },
+  {
+    "name": "Entry Level Customer Service 7.1 (South Africa)",
+    "duration": "19",
+    "description": "The Entry Level Customer Service Solution (Retail and Contact Center) 7.1 is for entry-level positions in which employees interact with customers by providing information or carrying out customer requests related to an organization's products or services. Sample tasks for these jobs include but are not limited to interacting with customers on the phone or in person; taking orders; solving product or service issues; and responding positively to difficult or irate customers.  “IMPORTANT! Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is International, South Africa and Americas\".",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-7-1-%28south-africa%29/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "C",
+      "P"
+    ]
+  },
+  {
+    "name": "Entry level Sales 7.1 (Americas)",
+    "duration": "20",
+    "description": "The Entry Level Sales 7.1 Solution is for entry-level positions in which employees proactively sell products or services to customers and have their compensation and/or performance based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and completing a transaction with a customer.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1-%28americas%29/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "B",
+      "C",
+      "P"
+    ]
+  },
+  {
+    "name": "Entry level Sales 7.1 (International)",
+    "duration": "20",
+    "description": "The Entry Level Sales 7.1 Solution is for entry-level positions in which employees proactively sell products or services to customers and have their compensation and/or performance based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and completing a transaction with a customer.\nReport Language Availability: English (USA), English International,     Portuguese, French Canadian, German, French, Chinese Simplified, Spanish, North American Spanish.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "P",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "name": "Entry Level Sales Sift Out 7.1",
+    "duration": "20",
+    "description": "The Entry Level Sales Sift Out 7.1 Solution is for entry-level positions in which employees proactively sell products or services to customers and have their compensation and/or performance based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and completing a transaction with a customer",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-sift-out-7-1/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "C",
+      "P",
+      "B"
+    ]
+  },
+  {
+    "name": "Event Sales Manager Solution",
+    "duration": "50",
+    "description": "The Event Sales Manager solution is designed for management level positions in the hospitality industry. Sample tasks include selling use of facility space for special events and managing staff. The solution is focused on sales, solving problems and making good decisions. Potential job titles that use this solution are: Event Sales Manager, Events Manager and Special Events Manager. Multiple configurations of this solution are available.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/event-sales-manager-solution/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "TestTypes": [
+      "S",
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "name": "Executive - Short Form",
+    "duration": "74",
+    "description": "The Executive solution is intended for use with senior executive level positions responsible for planning, directing, or coordinating key business activities and operations at the highest level of an organization. Executives at this level often accomplish their work through subordinate executives and provide overall direction to their organization by determining and formulating policies within guidelines set up by a board of directors or similar governing body. Potential job titles that use this solution are: Executive Vice President, President, and Executive Director.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/executive-short-form/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "TestTypes": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "name": "Financial Professional - Short Form",
+    "duration": "35",
+    "description": "This solution is for mid-level financial institution positions that require Series 6/7 certification. Candidates answer multiple choice questions to measure financial professional aptitude, learning potential, achievement orientation, conscientiousness, persistence and planfulness, self leadership, interpersonal leadership, sales focus and customer focus.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-professional-short-form/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "name": "Apache Hadoop Extensions (New)",
+    "duration": "9",
+    "description": "Multi-choice test that measures the conceptual knowledge of Pig, Hive and HBase.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-extensions-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Apache HBase (New)",
+    "duration": "5",
+    "description": "Multi-choice test that measures the knowledge of HBase concepts such as CAP theorem, ACID properties, HBase client API, MapReduce integration, configuration and administration.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-hbase-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Apache Hive (New)",
+    "duration": "5",
+    "description": "Multi-choice test that measures the knowledge of Hive architecture, datatypes, built-in functions, configurations, partitioning, bucketing and commands of Hive query language.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-hive-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Apache Kafka (New)",
+    "duration": "6",
+    "description": "Multi-choice test that measures the knowledge of Apache Kafka architecture, components, clusters, performance tuning and advanced operations.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-kafka-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Apache Pig (New)",
+    "duration": "6",
+    "description": "Multi-choice test that measures the knowledge of Pig architecture, built-in operators, built-in functions and commands in PigLatin.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-pig-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Apache Spark (New)",
+    "duration": "8",
+    "description": "Multi-choice test that measures the knowledge of Apache Spark principles, RDD operations - actions and transformations, lineage graphs and lazy evaluation.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-spark-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "ASP .NET with C# (New)",
+    "duration": "13",
+    "description": "Multi-choice test that measures the knowledge of .NET framework and controls, C# fundamentals, OOPs concepts and advanced topics such as data access components, state management and security services.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/asp-net-with-c-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "ASP.NET 4.5",
+    "duration": "30",
+    "description": "The ASP.NET 4.5 test measures knowledge of programming in the ASP.NET environment. Designed for experienced developers, but an average performer in this role should pass this test. This test includes the following topics: .NET Framework, Client-Side Programming, Data Access, Enhanced Runtime Features, Portals, Services and Mobile, Security, Troubleshooting and Optimization, Web Applications, and Web Forms.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/asp-net-4-5/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Assessment and Development Center Exercises",
+    "duration": "Variable",
+    "description": "SHL offers a comprehensive range of Assessment and Development Centre exercise in digital format, for remote assessment through our Virtual Assessment and Development Centre platform.\r\n\r\nWe offer a wide range of exercise types including group exercise, role plays, analysis presentations and written exercises.\r\n\r\nExercises are available across a wide range of job levels and industry contexts.\r\n\r\nContact SHL to find out more.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/assessment-and-development-center-exercises/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "E"
+    ]
+  },
+  {
+    "name": "Automata - Fix (New)",
+    "duration": "max 20",
+    "description": "A simulated compiler integrated test to measure debugging skills in C, C++ and Java. The test checks the ability to fix logical or syntactical errors and to reuse an existing code.\r\n\r\n \r\nYour use of this assessment product may be subject to New York City Law 144 (Regulation of the Use of Automated Employment Decision Tools) (dated July 5, 2023). Compliance with Law 144 is your responsibility.\r\nRead more on https://www.shl.com/legal/shl-us-regulatory-compliance/",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "S"
+    ]
+  },
+  {
+    "name": "Automata - SQL (New)",
+    "duration": "max 30",
+    "description": "A simulated query writing test that measures the ability to write SQL queries to perform DDL, DML and DCL tasks.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-sql-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "S"
+    ]
+  },
+  {
+    "name": "Automata (New)",
+    "duration": "max 45",
+    "description": "An AI-powered coding simulation assessment that evaluates candidate’s programming ability. Offers a familiar IDE environment available in over 40 different programming languages and tests candidates using real-world coding problems. \r\n \r\nYour use of this assessment product may be subject to New York City Law 144 (Regulation of the Use of Automated Employment Decision Tools) (dated July 5, 2023). Compliance with Law 144 is your responsibility.\r\nRead more on https://www.shl.com/legal/shl-us-regulatory-compliance/",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "S"
+    ]
+  },
+  {
+    "name": "Financial Services Representative Solution",
+    "duration": "44",
+    "description": "The Financial Services Representative solution is for senior-level professional positions in the insurance industry that sell life insurance to businesses and individuals on behalf of insurance companies. Sample tasks for this position include, but are not limited to: calling on policyholders to deliver and explain policies or suggest additions or changes; calculating premiums; customizing insurance programs to suite individual customers; seeking out new clients and developing clientele by networking; ensuring policy requirements are fulfilled; and conferring with clients to obtain and provide information when calims are made on a policy. Potential job titles that use this solution are: Life Insurance Sales Professional, Insurance Sales Agent. Multiple configurations of this solution are available.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-services-representative-solution/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "name": "Front Desk Associate Solution",
+    "duration": "50",
+    "description": "The Front Desk Associate solution is designed for entry-level customer service positions in the hospitality industry. The solution is appropriate for positions in which the majority of work is done at the front or guest check-in desk. Sample tasks may include: welcoming guests warmly, issuing keys to guests, tabulating guest bills and accpeting payment. Potential job titles that use this solution are: Front Desk Clerk, Guest Desk Attendant, Guest Check-in Associate, or Front Office Agent. Multiple configurations of this solution are available.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/front-desk-associate-solution/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "TestTypes": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "name": "Gaming Associate Solution",
+    "duration": "50",
+    "description": "The Gaming Associate solution is designed for entry to mid-level positions operating gaming tables. The solution is for highly customer service focused positions that may potentially deal with large sums of money. Sample tasks may include: dealing playing cards, counting and confirming patron bets, collecting patron losses and distributing patron winnings, and exchange currency for playing chips. Potential job titles that use this solution are: Table Games Dealer, Black Jack Dealer, Dealer, Casino Dealer, Dual Rate Dealer, Card Dealer and Gaming Dealer. Multiple configurations of this solution are available.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/gaming-associate-solution/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "TestTypes": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "name": "Gaming Manager Solution",
+    "duration": "55",
+    "description": "The Gaming Manager solution is designed for management level positions within the hospitality industry. Sample tasks include managing operations, supervisors and associates within gaming environments. The solution is focused on security, integrity and managing sales. Potential job titles that use this solution are: Gaming Floor Manager and Gaming Manager. Multiple configurations of this solution are available.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/gaming-manager-solution/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "TestTypes": [
+      "S",
+      "A",
+      "B",
+      "K",
+      "P"
+    ]
+  },
+  {
+    "name": "General Entry Level - All Industries 7.0 Solution",
+    "duration": "19",
+    "description": "Our General Entry Level – All Industries 7.0 solution is designed for entry-level positions across industries. This solution predicts the following types of behaviors foundational to all jobs: being on-time to work; following rules and policies; treating others respectfully; producing quality work; meeting goals; and effectively working alongside others.\r\n\r\nSolution can be used across all industries with entry-level positions. Example titles include, but are not limited to: Administrator, Clerk, Veterinary Assistant, Stocker, Dish Washer, Office Coordinator, Tour Guide, Cook, Assistant, Housekeeper, Waste Collector.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-all-industries-7-0-solution/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "B"
+    ]
+  },
+  {
+    "name": "General Entry Level - All Industries 7.1 Solution",
+    "duration": "19",
+    "description": "Our General Entry Level – All Industries 7.1 solution is designed for entry-level positions across industries. This solution predicts the following types of behaviors foundational to all jobs: being on-time to work; following rules and policies; treating others respectfully; producing quality work; meeting goals; and effectively working alongside others.\r\n\r\nSolution can be used across all industries with entry-level positions. Example titles include, but are not limited to: Administrator, Clerk, Veterinary Assistant, Stocker, Dish Washer, Office Coordinator, Tour Guide, Cook, Assistant, Housekeeper, Waste Collector. “MCP Product: please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is Americas and International.\"",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-all-industries-7-1-solution/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "B"
+    ]
+  },
+  {
+    "name": "General Entry Level - All Industries 7.1(Americas)",
+    "duration": "19",
+    "description": "Our General Entry Level – All Industries 7.1 solution is designed for entry-level positions across industries. This solution predicts the following types of behaviors foundational to all jobs: being on-time to work; following rules and policies; treating others respectfully; producing quality work; meeting goals; and effectively working alongside others.\r\n\r\nSolution can be used across all industries with entry-level positions. Example titles include, but are not limited to: Administrator, Clerk, Veterinary Assistant, Stocker, Dish Washer, Office Coordinator, Tour Guide, Cook, Assistant, Housekeeper, Waste Collector.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-all-industries-7-1%28americas%29/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "B"
+    ]
+  },
+  {
+    "name": "General Entry Level – Data Entry 7.0 Solution",
+    "duration": "24",
+    "description": "Our General Entry Level – Data Entry 7.0 solution is designed for entry-level positions that include entering data into computers or data management systems. This solution measures speed and accuracy at typing text and numbers into forms and predicts the following types of behaviors foundational to all jobs: being on-time to work; following rules and policies; treating others respectfully; producing quality work; meeting goals; and approaching work in a thorough and precise manner.  \r\n\r\nThis solution can be used across all industries with entry-level positions. Example titles include, but are not limited to: Accounting Clerk, Accounts Receivable Clerk, Administrative Clerk, Clerical Aide, Clerical Assistant, Office Assistant, Office Services Specialist, Staff Assistant.\nReport Language Availability: English (USA)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-data-entry-7-0-solution/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "B",
+      "K"
+    ]
+  },
+  {
+    "name": "Graduate + 8.0 Job Focused Assessment",
+    "duration": "30 minutes",
+    "description": "The Graduate + 8.0 Job Focused Assessment is a short, targeted, globally applicable assessment which includes a short cognitive ability measure. It helps you identify graduates with the highest potential to contribute and succeed, as well as providing actionable feedback to help you onboard new hires.\r\n\r\nIt is designed for professional level positions appropriate for recent college graduates and is available as part of SHL’s Graduate Solution.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-8-0-job-focused-assessment/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "name": "Graduate 7.1 Job Focused Assessment",
+    "duration": "19",
+    "description": "The Graduate 7.1 Job Focused Assessment is designed for professional level positions appropriate for recent college graduates.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-7-1-job-focused-assessment/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "name": "Graduate 8.0 Job Focused Assessment",
+    "duration": "20 minutes",
+    "description": "The Graduate 8.0 Job Focused Assessment is a short, targeted, globally applicable assessment to help you identify graduates with the highest potential to contribute and succeed. It also provides actionable feedback to help you onboard new hires.\r\n\r\nIt is designed for professional level positions appropriate for recent college graduates and is available as part of SHL’s Graduate Solution.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-8-0-job-focused-assessment-4228/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "P",
+      "B"
+    ]
+  },
+  {
+    "name": "Guest Service Team 7.0 Solution",
+    "duration": "18",
+    "description": "Our Guest Service Team 7.0 solution is designed for team-oriented entry-level positions that involve a high degree of interaction with customers. The solution covers a wide variety of positions, and assesses competencies critical to interacting with customers including: persisting to meet guest needs; behaving responsibly and appropriately; effectively working alongside others; preparing and/or delivering customer orders; following rules and policies; and communicating effectively. \r\n\r\nPotential job titles that use this solution include: Server, Hostess, Guest Services Team Member, Customer Service Champion.\nReport Language Availability: English (USA), Latin American Spanish.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/guest-service-team-7-0-solution/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "B"
+    ]
+  },
+  {
+    "name": "Automata Data Science (New)",
+    "duration": "max 60",
+    "description": "A simulated test that measures the ability to analyze and modify data using machine learning algorithms to obtain desirable results.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-data-science-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "S"
+    ]
+  },
+  {
+    "name": "Automata Data Science Pro (New)",
+    "duration": "max 60",
+    "description": "A simulated test that measures the ability to analyze and modify data using machine learning algorithms to obtain desirable results.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-data-science-pro-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "S"
+    ]
+  },
+  {
+    "name": "Automata Front End",
+    "duration": "30 minutes",
+    "description": "Simulation based test that measures the front-end development capabilities using HTML, CSS, and\r\nJavaScript. The candidate is provided with 3 different sections to code in HTML, CSS and JavaScript respectively and a separate output section to view the output. This simulation is then manually scored.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-front-end/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "S"
+    ]
+  },
+  {
+    "name": "Automata Pro (New)",
+    "duration": "max 60",
+    "description": "An AI-powered coding simulation assessment that evaluates candidate’s programming ability. Offers a familiar IDE environment available in over 40 different programming languages and tests candidates using real-world coding problems. \r\n \r\nYour use of this assessment product may be subject to New York City Law 144 (Regulation of the Use of Automated Employment Decision Tools) (dated July 5, 2023). Compliance with Law 144 is your responsibility.\r\nRead more on https://www.shl.com/legal/shl-us-regulatory-compliance/",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-pro-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "S"
+    ]
+  },
+  {
+    "name": "Automata Selenium",
+    "duration": "60",
+    "description": "A coding simulation assessment that evaluates the ability to conduct tasks related to automation testing using Selenium scripts.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-selenium/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "S"
+    ]
+  },
+  {
+    "name": "Automation Anywhere RPA Development (New)",
+    "duration": "8",
+    "description": "Multi-choice test that measures the knowledge of Automation Anywhere dash board and task editor, control room, key commands, bots and Automation Anywhere client.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automation-anywhere-rpa-development-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Automotive Engineering (New)",
+    "duration": "13",
+    "description": "Multi-choice test that measures the knowledge of auto engine classification, engine fuel system, auto-vehicle technology, maintenance, inspection and troubleshooting.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automotive-engineering-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Basic Biology (New)",
+    "duration": "6",
+    "description": "Multi choice test that measures the candidate's basic understanding of Biology.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/basic-biology-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Basic Computer Literacy (Windows 10) (New)",
+    "duration": "30",
+    "description": "The Basic Computer Literacy (Windows 10) simulation measures knowledge of general computer terminology, processes, and applications and the ability to perform certain operations in a simulated environment resembling the actual application. This simulation consists of both multiple choice and simulation-based questions, and includes the following topics: Application Software, Computer Terms, Internet and Email, Managing Files, Operating System, and Parts of the Computer.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "S",
+      "K"
+    ]
+  },
+  {
+    "name": "Basic Statistics (New)",
+    "duration": "10",
+    "description": "Multi-choice test that measures the knowledge of statistical methods, exploratory analysis, basics of probability, standard distributions and statistical testing.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/basic-statistics-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Biochemistry (New)",
+    "duration": "8",
+    "description": "Multi-choice test that measures the knowledge of various bio-molecules like amino acids, proteins, enzymes, carbohydrates, vitamins and nucleic acids, and concepts of bioenergetics and metabolism.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/biochemistry-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Biotech Lab Techniques (New)",
+    "duration": "5",
+    "description": "Multi-choice test that measures the knowledge of biophysical techniques, bio-processing and separation techniques like chromatography and electrophoresis.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/biotech-lab-techniques-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Nursing Assistant Solution",
+    "duration": "41",
+    "description": "The Nursing Assistant solution is for entry-level positions in a clinic or hospital environment. Sample tasks for this job include, but are not limited to: turning and re-positioning bedridden patients, feeding patients who cannot feed themselves, and observing patients' conditions, including measuring and recording food intake.  Potential job titles that use this solution are: Certified Nursing Assistant, Nursing Aide, Patient Care Technician, and Hospital Attendant.  Multiple configurations of this solution are available.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/nursing-assistant-solution/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "name": "Personal Banker - Short Form",
+    "duration": "30",
+    "description": "The Personal Banker – Loan Officer solution is for entry to mid-level financial institution positions. Sample tasks for this job would include, but are not limited to: acquiring, retaining and expanding new and existing customer relationships, discovering customer needs, making the best recommendation, completing sales, proactively contacting & meeting customers, and asking for referrals.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/personal-banker-short-form/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "A",
+      "B",
+      "K",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "name": "Phone Banker - Short Form",
+    "duration": "40",
+    "description": "This solution is for entry to mid-level financial institution positions. Candidates are asked to answer multiple choice questions to assess learning potential, dependability, persistence and planfulness, sales focus, customer focus, and working with information.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/phone-banker-short-form/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "name": "Prep/Line Cook Solution",
+    "duration": "24",
+    "description": "The Prep/Line Cook solution is for entry-level food preparation positions in the hospitality industry. Sample tasks include preparing ingredients and final food items for consumption. The solution is focused on work ethic and performing quality work with no direct customer contact or sales requirements. Potential job titles that use this solution are: Cook, Line Cook, Food Preparer, Prep Cook and Chef. Multiple configurations of this solution are available.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/prepline-cook-solution/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "TestTypes": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "name": "Professional + 7.0 Solution",
+    "duration": "51",
+    "description": "Our Professional + 7.0 solution is designed for all non-managerial professional individual contributor positions, and includes SHL’s new innovative mobile-first ability assessment, Verify Interactive – Deductive Reasoning. Sample tasks for these jobs include, but are not limited to: gathering requirements, analyzing data, managing projects, producing products or services.\nReport Language Availability: English (USA).",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-0-solution-3958/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "TestTypes": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "name": "Professional + 7.1 (Americas)",
+    "duration": "56",
+    "description": "Our Professional + 7.1 solution is designed for all non-managerial professional individual contributor positions, and includes SHL’s new innovative mobile-first ability assessment, Verify Interactive – Deductive Reasoning. Sample tasks for these jobs include, but are not limited to: gathering requirements, analyzing data, managing projects, producing products or services.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-1-%28americas%29/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "TestTypes": [
+      "B",
+      "C",
+      "P"
+    ]
+  },
+  {
+    "name": "Professional + 7.1 (International)",
+    "duration": "56",
+    "description": "Our Professional + 7.1 solution is designed for all non-managerial professional individual contributor positions, and includes SHL’s new innovative mobile-first ability assessment, Verify Interactive – Deductive Reasoning. Sample tasks for these jobs include, but are not limited to: gathering requirements, analyzing data, managing projects, producing products or services.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-1-solution/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "TestTypes": [
+      "B",
+      "C",
+      "P"
+    ]
+  },
+  {
+    "name": "Professional 7.0 Solution",
+    "duration": "33",
+    "description": "Our Professional 7.0 solution is designed for all non-managerial professional individual contributor positions. Sample tasks for these jobs include, but are not limited to: gathering requirements, analyzing data, managing projects, producing products or services.\nReport Language Availability: English (USA), Latin American Spanish.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-0-solution/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "name": "Professional 7.1 (International)",
+    "duration": "33",
+    "description": "Our Professional 7.1 solution is designed for all non-managerial professional individual contributor positions. Sample tasks for these jobs include, but are not limited to: gathering requirements, analyzing data, managing projects, producing products or services.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-1-solution-4247/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "C",
+      "B"
+    ]
+  },
+  {
+    "name": "Professional 8.0 JFA",
+    "duration": "16",
+    "description": "The Professional 8.0 Job-Focused Assessment is designed for all non-managerial professional/individual contributor positions. It measures behaviors that underlie successful performance in a professional/individual contributor setting across a wide range of industries.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/professional-8-0-jfa/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "B",
+      "K",
+      "P"
+    ]
+  },
+  {
+    "name": "Professional/Individual Contributor - Short Form",
+    "duration": "44",
+    "description": "The Professional/Individual Contributor solution is for mid to upper-level, non-managerial positions. Sample tasks for these jobs include, but are not limited to: meeting with clients to determine their needs, analyzing data sets, and working with co-workers to complete projects. Potential job titles that use this solution are: Engineer, Human Resource Consultant, and IT Analyst.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/professionalindividual-contributor-short-form/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "TestTypes": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "name": "Project Manager - Short Form",
+    "duration": "49",
+    "description": "The Project Manager solution is designed for positions that lead medium to large scale projects with multiple team members involved. Sample tasks for this job include, but are not limited to: guiding, supervising, and influencing project team members, scoping project resource requirements, and managing project timelines, scope and budgets. Potential job titles that ues this solution are: Project Manager, Implementation Manager, Construction Project Manager and IT Project Manager.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/project-manager-short-form/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "TestTypes": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "name": "Docker (New)",
+    "duration": "10",
+    "description": "Multi-choice test that measures the knowledge of Docker container, data management, Docker performance and swarm.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/docker-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Dojo (New)",
+    "duration": "11",
+    "description": "Multi-choice test that measures the knowledge of Dojo architecture, classes and libraries, styles, animation and Dojo queries.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/dojo-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Drupal (New)",
+    "duration": "17",
+    "description": "Multi-choice test that measures the knowledge of Drupal setup, content management, user interface, module development and security.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/drupal-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "DSI v1.1 Interpretation Report",
+    "duration": "Not specified",
+    "description": "DSI v1.1 Interpretation Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/dsi-v1-1-interpretation-report/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "P"
+    ]
+  },
+  {
+    "name": "Econometrics (New)",
+    "duration": "11",
+    "description": "Multi-choice test that measures the knowledge of statistical concepts, exploratory analysis and statistical testing required to analyze economic data.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/econometrics-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Economics (New)",
+    "duration": "13",
+    "description": "Multi-choice test that measures the conceptual knowledge of microeconomics, macroeconomics and international trade.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/economics-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Electrical and Electronics Engineering (New)",
+    "duration": "14",
+    "description": "Multi-choice test that measures the candidate’s knowledge and understanding on fundamentals of electrical engineering, instrumentation and control system and electronics.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/electrical-and-electronics-engineering-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Electrical Engineering (New)",
+    "duration": "8",
+    "description": "Multi-choice test that measures the knowledge of basic electrical engineering, electrical machines, power systems, instrumentation, control systems and basic concepts of electronics.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/electrical-engineering-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Electronics & Telecommunications Engineering (New)",
+    "duration": "15",
+    "description": "Multi-choice test that measures the candidate’s knowledge and understanding on semiconductors and semiconductor devices, analog and digital electronics, communication, electromagnetism and microwave engineering.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/electronics-and-telecommunications-engineering-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Electronics and Embedded Systems Engineering (New)",
+    "duration": "18",
+    "description": "Multi-choice test that measures the candidate’s knowledge and understanding on concepts like embedded systems and, analog and digital electronics.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Electronics and Semiconductor Engineering (New)",
+    "duration": "7",
+    "description": "Multi-choice test that measures the knowledge of semiconductors, two terminal and three terminal devices, analog electronics, digital electronics and basics of VLSI.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/electronics-and-semiconductor-engineering-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "English Comprehension (New)",
+    "duration": "0",
+    "description": "Multiple-choice test that measures vocabulary, grammar and reading comprehension skills.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/english-comprehension-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Verify Interactive Process Monitoring",
+    "duration": "18",
+    "description": "The SHL Verify Range of Ability Tests is a suite of cognitive ability assessments appropriate for candidates at a wide range of job levels. The SHL Process Monitoring assessment is designed for candidates in a wide range of industries where following processes, ensuring vigilance and maintaining machinery are important aspects of the job role. It measures candidates' ability to respond in a timely manner to instrument feedback and monitor variations in a production process in order to maintain the process within specified safe control limits.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-process-monitoring/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "A"
+    ]
+  },
+  {
+    "name": "Virtual Assessment and Development Centers",
+    "duration": "N/A",
+    "description": "SHL’s innovative virtual assessment centers wow new hires or existing employees and show how you invest in your people. They are a highly engaging experience, inclusive and packed with predictive power to undercover potential.\r\n\r\nSHL’s virtual assessment and development center platform is packaged with features to support your candidates, assessors and center administrators.\r\n\r\nDeliver a full range of assessment center exercises, from inbox simulations and written analysis, through coaching and role-play with preparation materials and one to one live virtual interactions, to assigned or unassigned role group exercises. Exercises are available across a range of job levels and industry scenarios\r\n\r\nWant to find out more or book a demo? Visit https://www.shl.com/en/solutions/virtual/virtual-assessment-development-center/\r\n \r\nLanguage Availability for the candidate and assessor simulation interface is shown in the list below.\r\n \r\nLanguage Availability for the live interactions interface (Smart Interview Live) is currently:  English US, Japanese, Simplified Chinese, Spanish, Portuguese, Brazilian Portuguese, French, Canadian French, Italian, Dutch, Latin American Spanish, Romanian, Indonesian, German, Greek.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/virtual-assessment-and-development-centers/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "P"
+    ]
+  },
+  {
+    "name": "Visual Basic for Applications (New)",
+    "duration": "7",
+    "description": "Multi-choice test that measures the knowledge of VBA programming constructs, forms, controls and VBA security.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/visual-basic-for-applications-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Visual Comparison - UK",
+    "duration": "5",
+    "description": "This assessment measures ability to efficiently compare information and detect errors. The test taker is required to examine four pairs of numbers and select the set of numbers that are notidentical.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/visual-comparison-uk/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Visual Comparison - US",
+    "duration": "5",
+    "description": "This assessment measures ability to efficiently compare information and detect errors. The test taker is required to examine four pairs of numbers and select the set of numbers that are not identical.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/visual-comparison-us/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "VLSI and Embedded Systems (New)",
+    "duration": "9",
+    "description": "Multi-choice test that measures the knowledge of VLSI and embedded systems basics.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/vlsi-and-embedded-systems-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "What Is The Value - US",
+    "duration": "5",
+    "description": "The What is the Value –US test measures money handling ability. This test is designed for entry-level positions where handling money is required on a regular basis.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/what-is-the-value-us/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Workplace Administration Skills (New)",
+    "duration": "12",
+    "description": "Multi-choice test that measures the ability to organize one's workplace, properly maintain data, perform simple tasks on the computer and resolve administrative issues.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-administration-skills-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "Workplace Health and Safety (New)",
+    "duration": "9",
+    "description": "Multi-choice test that measures the knowledge of first aid, emergency safety measures, cleanliness and personal hygiene.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-health-and-safety-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "K"
+    ]
+  },
+  {
+    "name": "WriteX - Email Writing (Customer Service) (New)",
+    "duration": "15",
+    "description": "Open response test that evaluates the ability to write proper emails in English. The test provides scores on content, grammar and email etiquette.\r\n \r\nYour use of this assessment product may be subject to New York City Law 144 (Regulation of the Use of Automated Employment Decision Tools) (dated July 5, 2023). Compliance with Law 144 is your responsibility.\r\nRead more on https://www.shl.com/legal/shl-us-regulatory-compliance/",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/writex-email-writing-customer-service-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "S"
+    ]
+  },
+  {
+    "name": "WriteX - Email Writing (Managerial) (New)",
+    "duration": "15",
+    "description": "Open response test that evaluates the ability to write proper emails in English. The test provides scores on content, grammar and email etiquette.\r\n \r\nYour use of this assessment product may be subject to New York City Law 144 (Regulation of the Use of Automated Employment Decision Tools) (dated July 5, 2023). Compliance with Law 144 is your responsibility.\r\nRead more on https://www.shl.com/legal/shl-us-regulatory-compliance/",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/writex-email-writing-managerial-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "S"
+    ]
+  },
+  {
+    "name": "WriteX - Email Writing (Sales) (New)",
+    "duration": "15",
+    "description": "Open response test that evaluates the ability to write proper emails in English. The test provides scores on content, grammar and email etiquette.\r\n \r\nYour use of this assessment product may be subject to New York City Law 144 (Regulation of the Use of Automated Employment Decision Tools) (dated July 5, 2023). Compliance with Law 144 is your responsibility.\r\nRead more on https://www.shl.com/legal/shl-us-regulatory-compliance/",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/writex-email-writing-sales-new/",
+    "RemoteTesting": "Yes",
+    "Adaptive/IRT Support": "No",
+    "TestTypes": [
+      "B",
+      "S"
+    ]
+  }
+]
