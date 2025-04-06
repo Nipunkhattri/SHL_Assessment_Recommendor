@@ -9,7 +9,7 @@ query = st.text_area("Enter your job description or skills needed:")
 if st.button("Recommend"):
     with st.spinner("Thinking..."):
         response = requests.post(
-            "http://localhost:8000/api/v1/shl/query",
+            "https://shl-assessment-recommendor-wmhq.onrender.com/api/v1/shl/query",
             json={"query": query}
         )
         print(response)

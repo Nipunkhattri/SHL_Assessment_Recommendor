@@ -14,7 +14,7 @@ async def lifespan(app: FastAPI):
 app = FastAPI(lifespan=lifespan)
 
 origins = [
-    "http://localhost:8501/"
+    "https://nipunkhattri-shl-assessment-recommendor-streamlit-mm8eeo.streamlit.app/"
 ]
 
 app.add_middleware(
