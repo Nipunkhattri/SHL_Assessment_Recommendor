@@ -12,7 +12,7 @@ def get_total_pages(soup, table_type):
 def get_assessment_details(url):
     """Get assessment details from individual assessment page"""
     try:
-        print(f"Fetching details for URL: {url}")
+        # print(f"Fetching details for URL: {url}")
         full_url = f"https://www.shl.com{url}"
         response = requests.get(full_url)
         details = {
@@ -31,7 +31,7 @@ def get_assessment_details(url):
                     if 'Assessment length' in heading.text:
                         duration_text = div.find('p').text.strip()
                         if "minutes" in duration_text.lower():
-                            details['duration'] = duration_text.split('=')[-1].strip()
+                            details['duration'] = duration_text.split('=')[-1].strip() + " minutes"
                     if 'Description' in heading.text:
                         description_text = div.find('p').text.strip()
                         details['description'] = description_text
@@ -73,7 +73,7 @@ def scrape_table(soup):
             test_types = test_type_cell.find_all('span', class_='product-catalogue__key')
             assessment['TestTypes'] = [type_span.text.strip() for type_span in test_types]
             
-            print(f"Assessment found: {assessment}")
+            # print(f"Assessment found: {assessment}")
             assessments.append(assessment)
     
     return assessments
@@ -113,7 +113,7 @@ def scrape_shl_catalog():
             
         page += 1
 
-    print(all_assessments)
+    # print(all_assessments)
     
     with open("assessments.json", "w", encoding='utf-8') as f:
         json.dump(all_assessments, f, indent=2, ensure_ascii=False)

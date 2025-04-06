@@ -3,11 +3,6 @@ from fastapi.responses import JSONResponse
 from pipeline import AssessmentIndexer
 from typing import List
 from models.shlmodel import QueryRequest, QueryResponse
-import re
-import requests
-from bs4 import BeautifulSoup
-import os.path
-from bs4 import BeautifulSoup
 
 shl_router = APIRouter(prefix="/api/v1/shl", tags=["SHL Recommendation"])
 

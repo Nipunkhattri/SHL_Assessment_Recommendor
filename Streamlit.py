@@ -12,7 +12,6 @@ if st.button("Recommend"):
             "https://shl-assessment-recommendor-wmhq.onrender.com/api/v1/shl/query",
             json={"query": query}
         )
-        print(response)
         data = response.json()
 
         rows = []
@@ -21,7 +20,6 @@ if st.button("Recommend"):
             test_types = metadata.get('TestTypes', [])
             
             row = {
-                'Assessment': item['text'],
                 'Score': f"{item['score']:.2f}",
                 'Name': metadata.get('name', 'N/A'),
                 'Duration (mins)': metadata.get('duration', 'N/A'),
