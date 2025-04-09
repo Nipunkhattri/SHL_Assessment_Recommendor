@@ -30,3 +30,7 @@ app.include_router(shl_router)
 @app.get("/", status_code=status.HTTP_200_OK)
 async def root():
     return {"message": "Welcome to the SHL Assessment API"}
+
+@app.get("/health", status_code=status.HTTP_200_OK)
+async def health_check():
+    return {"status": "healthy"}

@@ -9,24 +9,21 @@ query = st.text_area("Enter your job description or skills needed:")
 if st.button("Recommend"):
     with st.spinner("Thinking..."):
         response = requests.post(
-            "https://shl-assessment-recommendor-wmhq.onrender.com/api/v1/shl/query",
+            "https://shl-assessment-recommendor-wmhq.onrender.com/recommend",
+            # "http://localhost:8000/recommend",
             json={"query": query}
         )
         data = response.json()
 
         rows = []
-        for item in data:
-            metadata = item.get('metadata', {})
-            test_types = metadata.get('TestTypes', [])
-            
+        for assessment in data["recommended_assessments"]:
             row = {
-                'Score': f"{item['score']:.2f}",
-                'Name': metadata.get('name', 'N/A'),
-                'Duration (mins)': metadata.get('duration', 'N/A'),
-                'URL': metadata.get('url', 'N/A'),
-                'Remote Testing': metadata.get('RemoteTesting', 'N/A'),
-                'Adaptive/IRT Support': metadata.get('Adaptive/IRT Support', 'N/A'),
-                'Test Types': ', '.join(test_types) if test_types else 'N/A'
+                'URL': assessment['url'],
+                'Description': assessment['description'],
+                'Duration (mins)': assessment['duration'],
+                'Remote Testing': assessment['remote_support'],
+                'Adaptive Support': assessment['adaptive_support'],
+                'Test Types': ', '.join(assessment['test_type']) if assessment['test_type'] else 'N/A'
             }
             rows.append(row)
         

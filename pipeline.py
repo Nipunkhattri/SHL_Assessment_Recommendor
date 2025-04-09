@@ -74,9 +74,10 @@ class AssessmentIndexer:
         """
         Rerank the results using GPT based on relevance to the query.
         """
+        # print(len(results), "results to rerank")
         descriptions = [f"{i+1}. {res.node.text}" for i, res in enumerate(results)]
 
-        llm = OpenAI(api_key=self.open_api_key, model="gpt-4o")
+        llm = OpenAI(api_key=self.open_api_key, model="gpt-4o-mini")
 
         prompt = f"""
         You are an assistant helping a recruiter choose the best assessments for their hiring needs.
@@ -86,15 +87,21 @@ class AssessmentIndexer:
         Here are the assessments:
         {chr(10).join(descriptions)}
 
-        Rank the top 10 most relevant assessments based on the query.
-        Return only the rank numbers (1 to N) in sorted order, separated by commas.
+        Your task:
+        - Analyze the query and choose the 10 most relevant assessments.
+        - Output ONLY 10 rankings (no more, no less).
+        - Use the numbers corresponding to the assessments (e.g., 1, 5, 9...).
+        - Return just the numbers in ascending order, separated by commas. No explanation.
+
+        Example Output Format:
+        1, 3, 4, 6, 7, 10, 12, 15, 18, 20
         """
 
         gpt_response = llm.complete(prompt)
 
-        print("GPT Response:", gpt_response)
+        # print("GPT Response:", gpt_response)
         content = gpt_response.text.strip()
-        print("GPT Ranking Response:", content)
+        # print("GPT Ranking Response:", content)
 
         try:
             indices = [int(x.strip()) - 1 for x in content.split(',') if x.strip().isdigit()]
@@ -132,7 +139,8 @@ class AssessmentIndexer:
         else:
             filtered = results
 
-        print("Filtered Results:", filtered)
+        # print("Filtered Results:", filtered)
+        # print("Filtered Results Count:", len(filtered))
 
         top_10 = self.rerank_with_gpt(query_text, filtered)
         return top_10
